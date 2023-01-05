@@ -1,0 +1,4 @@
+These R scripts are for cleaning and structuring coded qualitative data on the nationalities of the Boards of Directors for various international development banks. 
+The repository does not include the original spreadsheets I coded or the finished datasets for privacy purposes. 
+I am happy to provide the original or finished data upon request. The bank datasets include the Boards of Directors of the World, Inter-American, Asian, and African Development Banks for about 54 years.
+Due to the structure of the Asian Development Bank data, I did not merge that dataset with the other banks in the DEVBANK output.
